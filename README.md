@@ -3,7 +3,6 @@ It is an application that helps you take care of plants and l worked on it durin
 # Technology Used
 La Vie is built using the following technologies:
 - Flutter: A mobile development framework used to create native iOS and Android apps with a single codebase.
-- ![#f03c15](https://via.placeholder.com/15/f03c15/f03c15.png) `#f03c15`
 - Dart: The programming language used by Flutter to build the app's logic and functionality.
 - Firebase: A cloud-based platform used to store and retrieve data, as well as manage user authentication and app analytics.
 - Firebase Auth: A Firebase service used to authenticate user accounts and manage their login credentials.
@@ -11,12 +10,12 @@ La Vie is built using the following technologies:
 - Shared Preferences: A Flutter plugin used to store and retrieve small amounts of data locally on the device.
 - QR Scan: A Flutter plugin used to scan QR codes
 # Packages
- state management Bloc
-  Dio 
-  Restful APIS
-  RQ CODE 
-  Login with Google
-  Shared Preferences
+ - state management Bloc
+ - Dio 
+ - Restful APIS
+ - RQ CODE 
+ - Login with Google
+ - Shared Preferences
   # Usage
 Once you've created an account, you can start using La Vie to learn about plants and take care of your own. Here are some of the things you can do with La Vie:
 Browse plants: Explore different plants and learn about their care needs, including watering, light, and temperature.
