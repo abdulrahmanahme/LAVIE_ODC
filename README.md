@@ -9,7 +9,9 @@ La Vie is built using the following technologies:
 - Sqflite: A Flutter plugin used to interact with local databases.
 - Shared Preferences: A Flutter plugin used to store and retrieve small amounts of data locally on the device.
 - QR Scan: A Flutter plugin used to scan QR codes
-# Packages
+ # Screenshots
+![image](https://user-images.githubusercontent.com/47110411/235760789-f35235f2-baa1-4520-87da-8ef4ed92abec.png)
+ # Packages
  - state management Bloc
  - Dio 
  - Restful APIS
