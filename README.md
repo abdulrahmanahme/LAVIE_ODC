@@ -1,4 +1,4 @@
-# LAVIE_ODC
+# LAVIE
 It is an application that helps you take care of plants and l worked on it during the orange Hackathon to develop applications
 # Technology Used
 La Vie is built using the following technologies:
