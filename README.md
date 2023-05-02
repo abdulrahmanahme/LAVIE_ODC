@@ -2,7 +2,7 @@
 It is an application that helps you take care of plants and l worked on it during the orange Hackathon to develop applications
 # Technology Used
 La Vie is built using the following technologies:
-Flutter: A mobile development framework used to create native iOS and Android apps with a single codebase.
+- ![#f03c15] Flutter: A mobile development framework used to create native iOS and Android apps with a single codebase.
 Dart: The programming language used by Flutter to build the app's logic and functionality.
 Firebase: A cloud-based platform used to store and retrieve data, as well as manage user authentication and app analytics.
 Firebase Auth: A Firebase service used to authenticate user accounts and manage their login credentials.
