@@ -17,8 +17,8 @@ La Vie is built using the following technologies:
  - Login with Google
  - Shared Preferences
   # Usage
-Once you've created an account, you can start using La Vie to learn about plants and take care of your own. Here are some of the things you can do with La Vie:
-Browse plants: Explore different plants and learn about their care needs, including watering, light, and temperature.
-Buy plants: Purchase new plants directly from the app.
-Communicate with others: Connect with other plant enthusiasts through the app's messaging platform.
-Track your plants: Keep track of your plant care schedule and receive reminders when it's time to water or fertilize your plants.
+- Once you've created an account, you can start using La Vie to learn about plants and take care of your own. 
+- Here are some of the things you can do with La Vie:  Browse plants: Explore different plants and learn about their care needs, including watering, light, and    temperature.
+- Buy plants: Purchase new plants directly from the app.
+- Communicate with others: Connect with other plant enthusiasts through the app's messaging platform.
+- Track your plants: Keep track of your plant care schedule and receive reminders when it's time to water or fertilize your plants.
